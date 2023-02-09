@@ -1,0 +1,37 @@
+body {
+    font-family: 'Itim', cursive;
+}
+
+
+
+.btn-primary {
+    color: black;
+    background-color: white;
+    border: 0;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 30px;
+
+}
+
+.banner {
+    background-image: url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 860px;
+
+}
+
+.banner-details {
+    text-align: right;
+    padding-top: 186px;
+    padding-right: 130px;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 45px;
+}
